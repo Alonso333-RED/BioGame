@@ -1,3 +1,5 @@
+const url = '/QuizAlimentacionSaludable/public/js/items.json'
+
 const obtenerItems = async()=>{
     const respuesta = await fetch(url)
     if(!respuesta.ok){
@@ -9,13 +11,13 @@ const obtenerItems = async()=>{
 
 const cargarDatos = async()=>{
     try {
-        const productos = await obtenerItems()
-        productos.forEach(function(producto){
+        const items = await obtenerItems()
+        items.forEach(function(item){
 
             const article = document.createElement('article')
             article.className = 'article'
             const {codigo,nombre,descripcion,imagen} = item
-            article.innerHTML = `<img src="public/img/galeria/${imagen}" alt="${nombre}">
+            article.innerHTML = `<p>${nombre}</p>
             <p>${descripcion}</p>
             <button type="button" id=${codigo} class="btn">Ver</button>`
             const tarjeta = document.querySelector('#galeria')

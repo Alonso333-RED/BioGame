@@ -9,6 +9,36 @@
     "nombre":"pera",
     "descripcion":"Fruta roja",
     "imagen":"pera.jpg"
+},
+{
+    "codigo":"P003",
+    "nombre":"banana",
+    "descripcion":"Fruta banana",
+    "imagen":"banana.jpg"
+},
+{
+   "codigo":"P004",
+    "nombre":"carne",
+    "descripcion":"carne de vacuno",
+    "imagen":"carne.jpg"
+
+},
+{
+     "codigo":"P005",
+    "nombre":"arroz",
+    "descripcion":"arroz",
+    "imagen":"arroz.jpg"
+},
+{
+ "codigo":"P006",
+    "nombre":"pollo",
+    "descripcion":"pollo",
+    "imagen":"pollo.jpg"
+},
+{
+  "codigo":"P007",
+    "nombre":"pescado",
+    "descripcion":"pescado",
+    "imagen":"pescado.jpg"  
 }
 ]
-

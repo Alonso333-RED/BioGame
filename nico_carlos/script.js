@@ -1,15 +1,23 @@
-alert("🧠 Bienvenido al proyecto Sustancias y Sinapsis");
-
 const cards = document.querySelectorAll(".card");
 
 cards.forEach((card) => {
 
     card.addEventListener("mouseenter", () => {
-        card.style.backgroundColor = "#374151";
+
+        card.style.transform = "translateY(-12px) scale(1.03)";
+
     });
 
     card.addEventListener("mouseleave", () => {
-        card.style.backgroundColor = "#1f2937";
+
+        card.style.transform = "translateY(0px) scale(1)";
+
     });
 
 });
+
+window.onload = () => {
+
+    console.log("🧠 NeuroLab iniciado");
+
+};
