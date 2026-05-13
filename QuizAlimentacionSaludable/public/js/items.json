@@ -1,0 +1,14 @@
+[{
+    "codigo":"P001",
+    "nombre":"manzana",
+    "descripcion":"Fruta roja",
+    "imagen":"manzana.jpg"
+},
+{
+    "codigo":"P002",
+    "nombre":"pera",
+    "descripcion":"Fruta roja",
+    "imagen":"pera.jpg"
+}
+]
+

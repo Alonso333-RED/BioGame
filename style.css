@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+
+}
+nav p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+nav ul{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style: none;
+}
+nav ul li{
+    text-align: center;
+    height: 20%;
+    width: 15%;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+}
+nav ul li a p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+    background-image: url("../img/fondo.jpg");
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+main section{
+    border-radius: 10px;
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
+main section a img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+}
