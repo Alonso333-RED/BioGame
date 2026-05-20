@@ -3,11 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="./public/css/style.css">
+    <title>Trivia Saludable</title>
 </head>
+
+<header>
+    <h1>Trivia</h1>
+</header>
+    
+<nav>
+    <ul>
+        <li><a href="/index.html">Volver</a></li>
+        <li><a href=".\public\views\items.html">Catalogo</a></li>
+        <li><a href="">Quienes Somos</a></li>           
+    </ul>
+</nav>
+
 <body>
-    <section class="items" id="items">
-        <script src="/QuizAlimentacionSaludable/public/js/funciones.js"></script>
-    </section>
+    <div class="trivia" id="trivia">
+    </div>
+      <div id="modal" class="modal oculto">
+        <div class="modal-contenido">
+        <h2 id="modalTitulo"></h2>
+        <p id="modalTexto"></p>
+        <button id="btnContinuar">Continuar</button>
+        </div>
+    </div>
+<script src="/QuizAlimentacionSaludable/public/js/trivia.js"></script>
+
+
 </body>
 </html>

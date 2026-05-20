@@ -1,0 +1,14 @@
+[
+  {
+    "pregunta": "¿Cuál es una fruta saludable?",
+    "respuesta": "P001",
+    "opciones": ["P001", "P002", "P004"],
+    "razon": "EJEMPLO: La manzana es saludable porque etc." 
+  },
+  {
+    "pregunta": "¿Cuál es comida poco saludable?",
+    "respuesta": "P004",
+    "opciones": ["P001", "P003", "P004"],
+    "razon": "EJEMPLO: La carne es poco saludable porque etc."
+  }
+]

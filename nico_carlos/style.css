@@ -14,7 +14,7 @@ body{
     color: white;
 }
 
-/* HEADER */
+
 
 header{
     text-align: center;
@@ -40,7 +40,7 @@ header p{
     color: #cbd5e1;
 }
 
-/* CONTENEDOR */
+
 
 .container{
     width: 90%;
@@ -55,7 +55,6 @@ header p{
     padding-bottom: 80px;
 }
 
-/* CARDS */
 
 .card{
     text-decoration: none;
@@ -103,7 +102,7 @@ header p{
     color: #cbd5e1;
 }
 
-/* INFO */
+
 
 .info{
     width: 90%;
@@ -174,7 +173,7 @@ header p{
     transform: scale(1.05);
 }
 
-/* FOOTER */
+
 
 footer{
     text-align: center;
@@ -184,7 +183,7 @@ footer{
     color: #94a3b8;
 }
 
-/* ANIMACIONES */
+
 
 @keyframes aparecer{
 
@@ -200,7 +199,7 @@ footer{
 
 }
 
-/* RESPONSIVE */
+
 
 @media(max-width:900px){
 

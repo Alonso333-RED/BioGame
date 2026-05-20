@@ -1,44 +1,68 @@
 [{
     "codigo":"P001",
     "nombre":"manzana",
-    "descripcion":"Fruta roja",
+    "descripcion":"Mejora la digestión, controla el peso y protege el corazón",
     "imagen":"manzana.jpg"
 },
 {
     "codigo":"P002",
     "nombre":"pera",
-    "descripcion":"Fruta roja",
+    "descripcion":"Mejora la digestión, controla el peso, protege el corazón y mantiene la piel hidratada",
     "imagen":"pera.jpg"
 },
 {
     "codigo":"P003",
     "nombre":"banana",
-    "descripcion":"Fruta banana",
+    "descripcion":"Aporta energía rápida, protege el sistema cardiovascular y favorece la digestión",
     "imagen":"banana.jpg"
 },
 {
-   "codigo":"P004",
+    "codigo":"P004",
     "nombre":"carne",
-    "descripcion":"carne de vacuno",
+    "descripcion":"Favorece el crecimiento muscular, el rendimiento cognitivo y aporta energía",
     "imagen":"carne.jpg"
 
 },
 {
-     "codigo":"P005",
+    "codigo":"P005",
     "nombre":"arroz",
-    "descripcion":"arroz",
+    "descripcion":"Aporta energía rápida mediante los carbohidratos y tiene una alta digestividad ",
     "imagen":"arroz.jpg"
 },
 {
  "codigo":"P006",
     "nombre":"pollo",
-    "descripcion":"pollo",
+    "descripcion":"Aporta proteínas de alta calidad con muy poca grasa (proteína magra)",
     "imagen":"pollo.jpg"
 },
 {
   "codigo":"P007",
     "nombre":"pescado",
-    "descripcion":"pescado",
+    "descripcion":"Gran fuente de OMGA 3 y proteínas que ayudan al cerebro y al crecimiento muscular. ",
     "imagen":"pescado.jpg"  
+},
+{
+  "codigo":"P008",
+    "nombre":"huevo",
+    "descripcion":"Fuente de proteinas economica de alta calidad",
+    "imagen":"huevo.jpg"  
+},
+{
+  "codigo":"P009",
+    "nombre":"Brócoli",
+    "descripcion":"Rico en fibra, vitamina C y anti oxídantes protectores",
+    "imagen":"brocoli.jpg"  
+},
+{
+  "codigo":"P009",
+    "nombre":"Espinaca",
+    "descripcion":"Aporta hierro, calcio y vitaminas importantes para el organismo",
+    "imagen":"huevo.jpg"  
+},
+{
+  "codigo":"P010",
+    "nombre":"Zanahoria",
+    "descripcion":"",
+    "imagen":"zanahoria.jpg"  
 }
 ]
