@@ -13,7 +13,7 @@ const cargarDatos = async()=>{
     try {
         const productos = await obtenerItems()
         productos.forEach(function(item){
-            const article = document.createElement('item')
+            const article = document.createElement('article')
             article.className = 'item'
             const {nombre,imagen,descripcion,codigo} = item
             article.innerHTML = `<img src="../img/galeria/${imagen}" alt="${nombre}">

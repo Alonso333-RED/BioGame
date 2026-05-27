@@ -1,6 +1,7 @@
 const urlItems = './public/js/items.json'
 const urlPreguntas = './public/js/preguntas.json'
 
+let indicePista = 0
 let indice = 0
 let puntos = 0
 let items = []
@@ -110,6 +111,30 @@ const mostrarPregunta = (preguntas) => {
     contenedor.appendChild(titulo)
     contenedor.appendChild(opcionesDiv)
 }
+
+const iniciarPistas = () => {
+
+    const textoPista = document.querySelector('#textoPista')
+
+    if (items.length === 0) return
+
+    const mostrar = () => {
+
+        const random = Math.floor(Math.random() * items.length)
+
+        const item = items[random]
+
+        textoPista.textContent =`${item.nombre}: ${item.descripcion}`
+    }
+
+    mostrar()
+
+    setInterval(() => {
+        mostrar()
+    }, 5000)
+}
+
+
 const iniciar = async () => {
 
     items = await cargarItems()
@@ -118,6 +143,8 @@ const iniciar = async () => {
     preguntas = mezclarPreguntas(preguntas)
 
     mostrarPregunta(preguntas)
+
+    iniciarPistas()
 }
 
 document.addEventListener('DOMContentLoaded', iniciar)

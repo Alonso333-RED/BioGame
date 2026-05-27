@@ -1,68 +1,363 @@
 [{
     "codigo":"P001",
-    "nombre":"manzana",
+    "nombre":"Manzana",
     "descripcion":"Mejora la digestión, controla el peso y protege el corazón",
-    "imagen":"manzana.jpg"
+    "imagen":"manzana.jpg",
+    "saludable": true
 },
 {
     "codigo":"P002",
-    "nombre":"pera",
+    "nombre":"Pera",
     "descripcion":"Mejora la digestión, controla el peso, protege el corazón y mantiene la piel hidratada",
-    "imagen":"pera.jpg"
+    "imagen":"pera.jpg",
+    "saludable": true
 },
 {
     "codigo":"P003",
-    "nombre":"banana",
+    "nombre":"Banana",
     "descripcion":"Aporta energía rápida, protege el sistema cardiovascular y favorece la digestión",
-    "imagen":"banana.jpg"
+    "imagen":"banana.jpg",
+    "saludable": true
 },
 {
     "codigo":"P004",
-    "nombre":"carne",
+    "nombre":"Carne",
     "descripcion":"Favorece el crecimiento muscular, el rendimiento cognitivo y aporta energía",
-    "imagen":"carne.jpg"
+    "imagen":"carne.jpg",
+    "saludable": true
 
 },
 {
     "codigo":"P005",
-    "nombre":"arroz",
+    "nombre":"Arroz",
     "descripcion":"Aporta energía rápida mediante los carbohidratos y tiene una alta digestividad ",
-    "imagen":"arroz.jpg"
+    "imagen":"arroz.jpg",
+    "saludable": true
 },
 {
  "codigo":"P006",
-    "nombre":"pollo",
+    "nombre":"Pollo",
     "descripcion":"Aporta proteínas de alta calidad con muy poca grasa (proteína magra)",
-    "imagen":"pollo.jpg"
+    "imagen":"pollo.jpg",
+    "saludable": true
 },
 {
   "codigo":"P007",
-    "nombre":"pescado",
+    "nombre":"Pescado",
     "descripcion":"Gran fuente de OMGA 3 y proteínas que ayudan al cerebro y al crecimiento muscular. ",
-    "imagen":"pescado.jpg"  
+    "imagen":"pescado.jpg",
+    "saludable": true  
 },
 {
   "codigo":"P008",
     "nombre":"huevo",
     "descripcion":"Fuente de proteinas economica de alta calidad",
-    "imagen":"huevo.jpg"  
+    "imagen":"huevo.jpg",
+    "saludable": true  
 },
 {
   "codigo":"P009",
     "nombre":"Brócoli",
     "descripcion":"Rico en fibra, vitamina C y anti oxídantes protectores",
-    "imagen":"brocoli.jpg"  
-},
-{
-  "codigo":"P009",
-    "nombre":"Espinaca",
-    "descripcion":"Aporta hierro, calcio y vitaminas importantes para el organismo",
-    "imagen":"huevo.jpg"  
+    "imagen":"brocoli.jpg",
+    "saludable": true  
 },
 {
   "codigo":"P010",
+    "nombre":"Espinaca",
+    "descripcion":"Aporta hierro, calcio y vitaminas importantes para el organismo",
+    "imagen":"huevo.jpg",
+    "saludable": true  
+},
+{
+  "codigo":"P011",
     "nombre":"Zanahoria",
     "descripcion":"",
-    "imagen":"zanahoria.jpg"  
-}
+    "imagen":"zanahoria.jpg",
+    "saludable": true  
+},
+{
+   "codigo":"P012",
+    "nombre":"Pimientos",
+    "descripcion":"",
+    "imagen":"pimientos.jpg",
+    "saludable": true    
+},
+{
+     "codigo":"P013",
+    "nombre":"Tomate",
+    "descripcion":"",
+    "imagen":"tomate.jpg",
+    "saludable": true  
+},
+
+    { "codigo":"P014",
+    "nombre":"Pepino",
+    "descripcion":"",
+    "imagen":"pepino.jpg",
+    "saludable": true  },
+    {
+         "codigo":"P015",
+    "nombre":"Calabacin",
+    "descripcion":"",
+    "imagen":"calabacin.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P016",
+    "nombre":"Naranja",
+    "descripcion":"",
+    "imagen":"naranja.jpg",
+    "saludable": true  
+    },
+    { "codigo":"P017",
+    "nombre":"Fresas",
+    "descripcion":"aportan antioxidantes, vitamina C y fibra.",
+    "imagen":"fresas.jpg",
+    "saludable": true  },
+    {
+         "codigo":"P018",
+    "nombre":"Arandanos",
+    "descripcion":"",
+    "imagen":"arandanos.jpg",
+    "saludable": true  
+    },
+    { "codigo":"P019",
+    "nombre":"Piña",
+    "descripcion":"",
+    "imagen":"piña.jpg",
+    "saludable": true  },
+    {
+         "codigo":"P020",
+    "nombre":"Mango",
+    "descripcion":"",
+    "imagen":"mango.jpg",
+    "saludable": true  
+    },
+    {
+    "codigo":"P021",
+    "nombre":"Lentejas",
+    "descripcion":"",
+    "imagen":"lentejas.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P022",
+    "nombre":"Garbanzos",
+    "descripcion":" fuente de proteínas vegetales, minerales y fibra.",
+    "imagen":"garbanzos.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P023",
+    "nombre":"Tofu",
+    "descripcion":"",
+    "imagen":"tofu.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P024",
+    "nombre":"Avena",
+    "descripcion":"",
+    "imagen":"avena.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P025",
+    "nombre":"Pan integral",
+    "descripcion":"",
+    "imagen":"pan_integral.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P026",
+    "nombre":"Quinoa",
+    "descripcion":"",
+    "imagen":"quinoa.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P027",
+    "nombre":"Pasta integral",
+    "descripcion":"",
+    "imagen":"pasta_integral.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P028",
+    "nombre":"Palta",
+    "descripcion":"",
+    "imagen":"palta.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P029",
+    "nombre":"Nueces",
+    "descripcion":"",
+    "imagen":"nueces.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P030",
+    "nombre":"Almendras",
+    "descripcion":"",
+    "imagen":"almendras.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P031",
+    "nombre":"Semillas de chia",
+    "descripcion":"",
+    "imagen":"semillas_chia.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P032",
+    "nombre":"Aceite de oliva",
+    "descripcion":"",
+    "imagen":"aceite_oliva.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P033",
+    "nombre":"Yogurt natural",
+    "descripcion":"",
+    "imagen":"yogurt_natural.jpg",
+    "saludable": true  
+    },
+    {
+         "codigo":"P034",
+    "nombre":"Leche baja en grasa",
+    "descripcion":"",
+    "imagen":"leche_baja_grasa.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P035",
+    "nombre":"Leche de almendras",
+    "descripcion":"",
+    "imagen":"leche_almendras.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P036",
+    "nombre":"Queso fresco",
+    "descripcion":"",
+    "imagen":"queso_fresco.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P037",
+    "nombre":"Bebidas gaseosas",
+    "descripcion":"",
+    "imagen":"bebidas_gaseosas.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P038",
+    "nombre":"Papas fritas",
+    "descripcion":"",
+    "imagen":"papas_fritas.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P039",
+    "nombre":"Hamburguesa",
+    "descripcion":"",
+    "imagen":"hamburguesa.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P040",
+    "nombre":"Completos",
+    "descripcion":"",
+    "imagen":"completos.jpg",
+    "saludable": true  
+    },
+
+    {
+     "codigo":"P041",
+    "nombre":"Pizza procesada",
+    "descripcion":"",
+    "imagen":"pizza_procesada.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P042",
+    "nombre":"Donas",
+    "descripcion":"",
+    "imagen":"donas.jpg",
+    "saludable": true  
+    },
+    {
+    "codigo":"P043",
+    "nombre":"Galletas rellenas",
+    "descripcion":"",
+    "imagen":"galletas_rellenas.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P044",
+    "nombre":"Chocolate procesado",
+    "descripcion":"",
+    "imagen":"chocolate_procesado.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P045",
+    "nombre":"Helados industriales",
+    "descripcion":"",
+    "imagen":"helados_industriales.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P046",
+    "nombre":"Cereales Azucarados",
+    "descripcion":"",
+    "imagen":"cereales_azucarados.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P047",
+    "nombre":"Snacks",
+    "descripcion":"",
+    "imagen":"snacks.jpg",
+    "saludable": true  
+    },
+    {
+    "codigo":"P048",
+    "nombre":"Nuggets",
+    "descripcion":"",
+    "imagen":"nuggets.jpg",
+    "saludable": true  
+    },
+    {
+     "codigo":"P049",
+    "nombre":"Salchichas",
+    "descripcion":"",
+    "imagen":"salchichas.jpg",
+    "saludable": true  
+    },
+     {
+     "codigo":"P050",
+    "nombre":"Sopa instantanea",
+    "descripcion":"",
+    "imagen":"sopa_instantanea.jpg",
+    "saludable": true  
+     },
+     {
+    "codigo":"P051",
+    "nombre":"Queques",
+    "descripcion":"",
+    "imagen":"queques.jpg",
+    "saludable": true  
+     },
+     {
+     "codigo":"P052",
+    "nombre":"Bebidas energeticas",
+    "descripcion":"",
+    "imagen":"bebidas_energeticas.jpg",
+    "saludable": true  
+     }
+
 ]
