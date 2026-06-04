@@ -66,298 +66,300 @@
   "codigo":"P010",
     "nombre":"Espinaca",
     "descripcion":"Aporta hierro, calcio y vitaminas importantes para el organismo",
-    "imagen":"huevo.jpg",
+    "imagen":"espinaca.jpg",
     "saludable": true  
 },
 {
   "codigo":"P011",
     "nombre":"Zanahoria",
-    "descripcion":"",
+    "descripcion":"Rica en vitamina A, favorece la salud visual y la piel.",
     "imagen":"zanahoria.jpg",
     "saludable": true  
 },
 {
    "codigo":"P012",
     "nombre":"Pimientos",
-    "descripcion":"",
+    "descripcion":"Contienen vitamina C y antioxidantes que fortalecen las defensas.",
     "imagen":"pimientos.jpg",
     "saludable": true    
 },
 {
      "codigo":"P013",
     "nombre":"Tomate",
-    "descripcion":"",
+    "descripcion":"Aporta antioxidantes como el licopeno, beneficiosos para la salud cardiovascular.",
     "imagen":"tomate.jpg",
     "saludable": true  
 },
 
     { "codigo":"P014",
     "nombre":"Pepino",
-    "descripcion":"",
+    "descripcion":"Alimento hidratante y bajo en calorías.",
     "imagen":"pepino.jpg",
     "saludable": true  },
     {
-         "codigo":"P015",
+    "codigo":"P015",
     "nombre":"Calabacin",
-    "descripcion":"",
+    "descripcion":"Contiene agua, fibra y vitaminas con bajo aporte calórico.",
     "imagen":"calabacin.jpg",
     "saludable": true  
     },
     {
-     "codigo":"P016",
+    "codigo":"P016",
     "nombre":"Naranja",
-    "descripcion":"",
+    "descripcion":"Rica en vitamina C y ayuda al sistema inmune.",
     "imagen":"naranja.jpg",
     "saludable": true  
     },
-    { "codigo":"P017",
+    { 
+    "codigo":"P017",
     "nombre":"Fresas",
-    "descripcion":"aportan antioxidantes, vitamina C y fibra.",
+    "descripcion":"Aportan antioxidantes, vitamina C y fibra.",
     "imagen":"fresas.jpg",
     "saludable": true  },
     {
-         "codigo":"P018",
+    "codigo":"P018",
     "nombre":"Arandanos",
-    "descripcion":"",
+    "descripcion":"Contienen antioxidantes asociados al cuidado cerebral y circulatorio.",
     "imagen":"arandanos.jpg",
     "saludable": true  
     },
-    { "codigo":"P019",
+    { 
+    "codigo":"P019",
     "nombre":"Piña",
-    "descripcion":"",
+    "descripcion":"Favorece la digestión y aporta vitamina C.",
     "imagen":"piña.jpg",
     "saludable": true  },
     {
-         "codigo":"P020",
+    "codigo":"P020",
     "nombre":"Mango",
-    "descripcion":"",
+    "descripcion":"Rico en vitamina A y antioxidantes.",
     "imagen":"mango.jpg",
     "saludable": true  
     },
     {
     "codigo":"P021",
     "nombre":"Lentejas",
-    "descripcion":"",
+    "descripcion":"Entregan proteínas vegetales, hierro y fibra.",
     "imagen":"lentejas.jpg",
     "saludable": true  
     },
     {
      "codigo":"P022",
     "nombre":"Garbanzos",
-    "descripcion":" fuente de proteínas vegetales, minerales y fibra.",
+    "descripcion":"Fuente de proteínas vegetales, minerales y fibra.",
     "imagen":"garbanzos.jpg",
     "saludable": true  
     },
     {
      "codigo":"P023",
     "nombre":"Tofu",
-    "descripcion":"",
+    "descripcion":"Aporta proteína vegetal y calcio.",
     "imagen":"tofu.jpg",
     "saludable": true  
     },
     {
      "codigo":"P024",
     "nombre":"Avena",
-    "descripcion":"",
+    "descripcion":"Rica en fibra, ayuda al control del colesterol y entrega energía sostenida.",
     "imagen":"avena.jpg",
     "saludable": true  
     },
     {
      "codigo":"P025",
     "nombre":"Pan integral",
-    "descripcion":"",
+    "descripcion":"Contiene más fibra y nutrientes que el pan refinado.",
     "imagen":"pan_integral.jpg",
     "saludable": true  
     },
     {
      "codigo":"P026",
     "nombre":"Quinoa",
-    "descripcion":"",
+    "descripcion":"Aporta proteínas, fibra y minerales importantes.",
     "imagen":"quinoa.jpg",
     "saludable": true  
     },
     {
      "codigo":"P027",
     "nombre":"Pasta integral",
-    "descripcion":"",
+    "descripcion":"Entrega energía y mayor contenido de fibra.",
     "imagen":"pasta_integral.jpg",
     "saludable": true  
     },
     {
      "codigo":"P028",
     "nombre":"Palta",
-    "descripcion":"",
+    "descripcion":"Rica en grasas saludables beneficiosas para el corazón.",
     "imagen":"palta.jpg",
     "saludable": true  
     },
     {
      "codigo":"P029",
     "nombre":"Nueces",
-    "descripcion":"",
+    "descripcion":"Contienen grasas saludables, omega-3 y antioxidantes.",
     "imagen":"nueces.jpg",
     "saludable": true  
     },
     {
      "codigo":"P030",
     "nombre":"Almendras",
-    "descripcion":"",
+    "descripcion":"Aportan vitamina E, grasas saludables y minerales.",
     "imagen":"almendras.jpg",
     "saludable": true  
     },
     {
      "codigo":"P031",
     "nombre":"Semillas de chia",
-    "descripcion":"",
+    "descripcion":"ricas en fibra y omega-3, ayudan a la digestión.",
     "imagen":"semillas_chia.jpg",
     "saludable": true  
     },
     {
      "codigo":"P032",
     "nombre":"Aceite de oliva",
-    "descripcion":"",
+    "descripcion":"Fuente de grasas monoinsaturadas beneficiosas para el sistema cardiovascular.",
     "imagen":"aceite_oliva.jpg",
     "saludable": true  
     },
     {
      "codigo":"P033",
     "nombre":"Yogurt natural",
-    "descripcion":"",
+    "descripcion":"Aporta calcio, proteínas y probióticos.",
     "imagen":"yogurt_natural.jpg",
     "saludable": true  
     },
     {
-         "codigo":"P034",
+    "codigo":"P034",
     "nombre":"Leche baja en grasa",
-    "descripcion":"",
+    "descripcion":"Buena fuente de calcio y proteínas con menor contenido graso.",
     "imagen":"leche_baja_grasa.jpg",
     "saludable": true  
     },
     {
      "codigo":"P035",
     "nombre":"Leche de almendras",
-    "descripcion":"",
+    "descripcion":"Alternativas vegetales que aportan vitaminas y minerales.",
     "imagen":"leche_almendras.jpg",
     "saludable": true  
     },
     {
      "codigo":"P036",
     "nombre":"Queso fresco",
-    "descripcion":"",
+    "descripcion":"Contiene proteínas y calcio con menor cantidad de grasa que quesos maduros.",
     "imagen":"queso_fresco.jpg",
     "saludable": true  
     },
     {
      "codigo":"P037",
     "nombre":"Bebidas gaseosas",
-    "descripcion":"",
+    "descripcion":"Altas en azúcar y asociadas al aumento de peso; entregan energía rápida de corta duración.",
     "imagen":"bebidas_gaseosas.jpg",
-    "saludable": true  
+    "saludable": false  
     },
     {
      "codigo":"P038",
     "nombre":"Papas fritas",
-    "descripcion":"",
+    "descripcion":"Ricas en grasas y sodio, lo que puede afectar la salud cardiovascular; generan saciedad momentánea.",
     "imagen":"papas_fritas.jpg",
-    "saludable": true  
+    "saludable": false  
     },
     {
      "codigo":"P039",
     "nombre":"Hamburguesa",
-    "descripcion":"",
+    "descripcion":"Contiene exceso de calorías, grasas y sodio; aporta proteínas y energía.",
     "imagen":"hamburguesa.jpg",
-    "saludable": true  
+    "saludable": false  
     },
     {
      "codigo":"P040",
     "nombre":"Completos",
-    "descripcion":"",
+    "descripcion":"Altos en sodio y grasas procesadas; proporcionan energía rápida.",
     "imagen":"completos.jpg",
-    "saludable": true  
+    "saludable": false  
     },
 
     {
      "codigo":"P041",
     "nombre":"Pizza procesada",
-    "descripcion":"",
+    "descripcion":"Exceso en grasas saturadas y sodio; genera saciedad temporal.",
     "imagen":"pizza_procesada.jpg",
-    "saludable": true  
+    "saludable": false 
     },
     {
      "codigo":"P042",
     "nombre":"Donas",
-    "descripcion":"",
+    "descripcion":"Elevadas en azúcar y grasas; aumentan la energía de forma inmediata.",
     "imagen":"donas.jpg",
-    "saludable": true  
+    "saludable": false  
     },
     {
     "codigo":"P043",
     "nombre":"Galletas rellenas",
-    "descripcion":"",
+    "descripcion":"Contienen azúcares y grasas en exceso; producen satisfacción momentánea.",
     "imagen":"galletas_rellenas.jpg",
-    "saludable": true  
+    "saludable": false  
     },
     {
      "codigo":"P044",
     "nombre":"Chocolate procesado",
-    "descripcion":"",
+    "descripcion":"Favorecen el consumo excesivo de calorías; aportan energía rápida.",
     "imagen":"chocolate_procesado.jpg",
-    "saludable": true  
+    "saludable": false  
     },
     {
      "codigo":"P045",
     "nombre":"Helados industriales",
-    "descripcion":"",
+    "descripcion":"Altos en azúcar y grasas; producen sensación refrescante temporal.",
     "imagen":"helados_industriales.jpg",
-    "saludable": true  
+    "saludable": false  
     },
     {
      "codigo":"P046",
     "nombre":"Cereales Azucarados",
-    "descripcion":"",
+    "descripcion":"Generan picos de glucosa por su exceso de azúcar; aportan energía rápida.",
     "imagen":"cereales_azucarados.jpg",
-    "saludable": true  
+    "saludable": false 
     },
     {
      "codigo":"P047",
     "nombre":"Snacks",
-    "descripcion":"",
+    "descripcion":"Contienen mucho sodio y grasas; satisfacen antojos temporalmente.",
     "imagen":"snacks.jpg",
-    "saludable": true  
+    "saludable": false
     },
     {
     "codigo":"P048",
     "nombre":"Nuggets",
-    "descripcion":"",
+    "descripcion":"Son ultraprocesados y altos en sodio; aportan proteínas.",
     "imagen":"nuggets.jpg",
-    "saludable": true  
+    "saludable": false 
     },
     {
      "codigo":"P049",
     "nombre":"Salchichas",
-    "descripcion":"",
+    "descripcion":"Su consumo frecuente puede afectar la salud; aportan proteínas y calorías.",
     "imagen":"salchichas.jpg",
-    "saludable": true  
+    "saludable": false 
     },
      {
      "codigo":"P050",
     "nombre":"Sopa instantanea",
-    "descripcion":"",
+    "descripcion":"Muy altas en sodio y bajas en nutrientes; son prácticas de preparar.",
     "imagen":"sopa_instantanea.jpg",
-    "saludable": true  
+    "saludable": false 
      },
      {
     "codigo":"P051",
     "nombre":"Queques",
-    "descripcion":"",
+    "descripcion":" Altos en azúcar y harinas refinadas; entregan energía rápida.",
     "imagen":"queques.jpg",
-    "saludable": true  
+    "saludable": false 
      },
      {
      "codigo":"P052",
     "nombre":"Bebidas energeticas",
-    "descripcion":"",
+    "descripcion":"El exceso puede causar alteraciones cardiovasculares y del sueño; aumentan temporalmente el estado de alerta.",
     "imagen":"bebidas_energeticas.jpg",
-    "saludable": true  
+    "saludable": false 
      }
 
 ]

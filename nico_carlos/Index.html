@@ -4,163 +4,165 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>NeuroLab</title>
-
-    <link rel="stylesheet" href="style.css">
-
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="public/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
-    <!-- HEADER -->
-
     <header>
-
         <h1>🧠 SUSTANCIAS Y SINAPSIS</h1>
-
-        <p>
-            Explora cómo las sustancias afectan el cerebro humano
-        </p>
-
+        <p>Proyecto BIO-CODE 4.0 • 4° Medio TP</p>
     </header>
 
-    <!-- TARJETAS -->
+    <section class="introduccion">
+        <div class="intro-box">
+            <h2>El Equilibrio Químico del Cerebro</h2>
+            <p>
+                
+            </p>
+            <p>
+                A través de esta plataforma, analizaremos cómo el consumo de sustancias comunes como el alcohol, los componentes del vapeo y diferentes drogas interfieren directamente en la <strong>sinapsis neuronal</strong>. Estas sustancias alteran los circuitos de recompensa, modifican la liberación de neurotransmisores clave como la dopamina y provocan daños profundos y adicciones, especialmente en el cerebro adolescente que aún se encuentra en pleno desarrollo.
+            </p>
+        </div>
+    </section>
 
     <section class="container">
-
         <a href="#sinapsis" class="card">
-
-            <img src="https://cdn-icons-png.flaticon.com/512/4812/4812434.png">
-
+            <img src="https://cdn-icons-png.flaticon.com/512/4812/4812434.png" alt="Icono Sinapsis">
             <h2>¿Qué es la Sinapsis?</h2>
+            <p>Aprende cómo se comunican las neuronas paso a paso.</p>
+        </a>
 
-            <p>
-                Aprende cómo se comunican las neuronas.
-            </p>
-
+        <a href="#drogas" class="card">
+            <img src="https://cdn-icons-png.flaticon.com/512/3004/3004455.png" alt="Icono Drogas">
+            <h2>Drogas y Sinapsis</h2>
+            <p>Cómo interfieren las sustancias en el sistema nervioso.</p>
         </a>
 
         <a href="#dopamina" class="card">
+            <img src="https://cdn-icons-png.flaticon.com/512/3771/3771417.png" alt="Icono Dopamina">
+            <h2>Circuito de Recompensa</h2>
+            <p>Dopamina, adicción y el efecto de tolerancia.</p>
+        </a>
 
-            <img src="https://cdn-icons-png.flaticon.com/512/3771/3771417.png">
-
-            <h2>Dopamina y Adicción</h2>
-
-            <p>
-                Descubre el circuito de recompensa.
-            </p>
-
+        <a href="#adolescente" class="card destacado-card">
+            <img src="https://cdn-icons-png.flaticon.com/512/3663/3663335.png" alt="Icono Cerebro">
+            <h2>Cerebro Adolescente</h2>
+            <p>¡Muy importante! Vulnerabilidad y riesgos.</p>
         </a>
 
         <a href="#alcohol" class="card">
-
-            <img src="https://cdn-icons-png.flaticon.com/512/2966/2966486.png">
-
+            <img src="https://cdn-icons-png.flaticon.com/512/2966/2966486.png" alt="Icono Alcohol">
             <h2>Efectos del Alcohol</h2>
-
-            <p>
-                Cómo afecta el equilibrio y coordinación.
-            </p>
-
+            <p>Impacto en el cerebelo y la corteza prefrontal.</p>
         </a>
 
         <a href="#vapeo" class="card">
-
-            <img src="https://cdn-icons-png.flaticon.com/512/3050/3050525.png">
-
+            <img src="https://cdn-icons-png.flaticon.com/512/3050/3050525.png" alt="Icono Vapeo">
             <h2>Daño del Vapeo</h2>
-
-            <p>
-                Efectos negativos en los pulmones.
-            </p>
-
+            <p>Nicotina, toxinas y destrucción alveolar.</p>
         </a>
-
     </section>
 
-    <!-- INFORMACION -->
-
     <section class="info" id="sinapsis">
-
         <div class="info-text">
-
             <h2>🧠 ¿Qué es la Sinapsis?</h2>
-
             <p>
-                La sinapsis es el proceso mediante el cual las neuronas se comunican
-                utilizando neurotransmisores como la DOPAMINA, SEROTONINA. 
-                Gracias a este proceso el cerebro 
-                puede transmitir información rápidamente.
+                La sinapsis es el proceso esencial mediante el cual las neuronas (células del cerebro) se comunican entre sí para controlar nuestros pensamientos, emociones, movimientos y decisiones. Como las neuronas no están unidas directamente, liberan sustancias químicas llamadas <strong>neurotransmisores</strong> a través del espacio sináptico.
             </p>
-
+            <div class="pasos-cronograma">
+                <h3>⚡ Proceso de funcionamiento:</h3>
+                <ol>
+                    <li>La neurona recibe un estímulo y genera una señal eléctrica.</li>
+                    <li>La señal llega al final de la neurona y se liberan neurotransmisores.</li>
+                    <li>Estos cruzan la <strong>hendidura sináptica</strong> y se unen a los receptores de la siguiente neurona transmitiendo el mensaje.</li>
+                </ol>
+            </div>
         </div>
+        <img src="public/img/sinapsis.jpg" alt="Esquema de la sinapsis">
+    </section>
 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/SynapseSchematic_es.svg">
-
+    <section class="info" id="drogas">
+        <div class="info-text">
+            <h2>💊 Drogas y Sinapsis</h2>
+            <p>
+                Las drogas interfieren directamente en el sistema nervioso alterando la comunicación química neuronal. Modifican este proceso de diferentes maneras:
+            </p>
+            <ul class="lista-detalles">
+                <li><strong>Imitan neurotransmisores:</strong> Engañan al cerebro y activan receptores de forma anómala.</li>
+                <li><strong>Bloquean la recaptación:</strong> Hacen que los neurotransmisores permanezcan más tiempo de lo normal en la sinapsis, sobreexcitando el sistema.</li>
+                <li><strong>Alteran la liberación:</strong> Aumentan o disminuyen drásticamente la cantidad de señales enviadas.</li>
+            </ul>
+            <p class="consecuencia-caja">
+                ⚠️ <strong>Consecuencias directas:</strong> Cambios drásticos en el estado de ánimo, pérdida de coordinación, alteraciones en los reflejos y problemas severos de memoria y aprendizaje.
+            </p>
+        </div>
+        <img src="public/img/sinapsis2.jpg" alt="Intervención de drogas en la sinapsis">
     </section>
 
     <section class="info" id="dopamina">
-
         <div class="info-text">
-
-            <h2>🎯 Dopamina y Adicción</h2>
-
+            <h2>🎯 Dopamina y Recompensa</h2>
             <p>
-               ojo: agregar una casila previa sobre como afectan las drogas en la sinapsis (estimulantes depresoras por ejmplo), es decir como intervienen.  La dopamina está relacionada con el placer y la recompensa.
-                En la adicción, las neuronas liberan dopamina en exceso y generan dependencia.
+                La dopamina es el neurotransmisor encargado del placer y la motivación. En condiciones normales, el <strong>circuito de recompensa</strong> se activa para reforzar conductas naturales necesarias para la supervivencia como comer, descansar o socializar, generando bienestar.
             </p>
-
+            <div class="alerta-caja">
+                <p><strong>El hackeo de las sustancias:</strong> Al consumir drogas, se libera dopamina en exceso. Con el tiempo, el cerebro desarrolla <strong>tolerancia y dependencia</strong>: se acostumbra a esos niveles masivos y exige consumir dosis cada vez mayores solo para sentirse normal, destruyendo el control de la toma de decisiones.</p>
+            </div>
         </div>
+        <img src="public/img/dopamina.jpg" alt="Vías de la dopamina">
+    </section>
 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Dopamine_pathways.svg">
-
+    <section class="info destacado-seccion" id="adolescente">
+        <div class="info-text">
+            <h2>⚠️ El Cerebro Adolescente</h2>
+            <p class="destacado-texto">
+                El cerebro de los adolescentes se encuentra en una etapa crítica de desarrollo y maduración estructural. 
+            </p>
+            <p>
+                Debido a que las conexiones de la corteza prefrontal aún no se han completado, el cerebro adolescente es <strong>mucho más sensible a los efectos de las sustancias tóxicas</strong>. El consumo temprano altera drásticamente los circuitos en construcción, multiplicando exponencialmente el riesgo de desarrollar adicciones crónicas y daños irreparables en la etapa adulta.
+            </p>
+            <p class="conexion-clave">
+                🔗 <strong>Conexión Clave:</strong> Las sustancias alteran la sinapsis, lo que modifica la liberación de dopamina y afecta el circuito de recompensa, provocando cambios radicales en el comportamiento.
+            </p>
+        </div>
+        <img src="public/img/adolescente.jpg" alt="Desarrollo cerebral">
     </section>
 
     <section class="info" id="alcohol">
-
         <div class="info-text">
-
             <h2>🍺 Efectos del Alcohol</h2>
-
             <p>
-                El alcohol afecta el cerebelo provocando pérdida de equilibrio,
-                coordinación y dificultad para tomar decisiones.
+                El alcohol actúa como un potente depresor. Afecta principalmente al <strong>cerebelo</strong> (encargado del equilibrio, la coordinación y la precisión de los movimientos), provocando pérdida de estabilidad y respuestas motoras lentas.
             </p>
-
+            <p>
+                Además, altera de forma inmediata la <strong>corteza prefrontal</strong>, lo que nubla el juicio crítico, disminuye el sentido de la responsabilidad y aumenta peligrosamente la impulsividad.
+            </p>
         </div>
-
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Brain_human_normal_inferior_view.svg">
-
+        <img src="public/img/alcohol.jpg" alt="Efectos del alcohol en el cerebro">
     </section>
 
     <section class="info" id="vapeo">
-
         <div class="info-text">
-
             <h2>🚬 Daño del Vapeo</h2>
-
             <p>
-                El vapeo puede dañar los alveolos pulmonares y disminuir
-                la entrada de oxígeno al cuerpo.
+                Los dispositivos de vapeo introducen nicotina concentrada y múltiples compuestos químicos altamente tóxicos directamente al sistema respiratorio. 
             </p>
-
+            <p>
+                Estas sustancias dañan de forma directa y progresiva los <strong>alvéolos pulmonares</strong>, generando cuadros de inflamación severa, dificultad respiratoria crónica y una reducción drástica en la captación de oxígeno que debiese nutrir a todo el cuerpo, incluido el cerebro.
+            </p>
         </div>
-
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Lungs_diagram_simple.svg">
-
+        <img src="public/img/vapeo.jpg" alt="Daño en los pulmones por vapeo">
     </section>
 
+
     <footer>
-
-        <p>
-            Proyecto BIO-CODE 4.0 • 4° Medio TP
-        </p>
-
+        <p>Proyecto BIO-CODE 4.0 • 4° Medio TP • Conclusión: Las sustancias afectan directamente la comunicación entre neuronas, alterando el funcionamiento del cerebro, las emociones y la toma de decisiones.</p>
     </footer>
 
-    <script src="script.js"></script>
+    <script src="public/js/script.js"></script>
 
 </body>
 </html>
