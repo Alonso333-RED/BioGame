@@ -30,8 +30,8 @@ const pauseBackToMenuBtn = document.getElementById("pauseBackToMenuBtn");
 
 const jugadorImg = new Image(); jugadorImg.src = "public/images/jugador.png";
 const cervezaImg = new Image(); cervezaImg.src = "public/images/cerveza.png";
-const porroImg = new Image(); porroImg.src = "public/images/porro.png";
-const marimbaImg = new Image(); marimbaImg.src = "public/images/marimba.jpg";
+const porroImg = new Image(); porroImg.src = "public/images/vapeador.png";
+const marimbaImg = new Image(); marimbaImg.src = "public/images/marihuana.com.png";
 
 const keys = {};
 const substances = [];

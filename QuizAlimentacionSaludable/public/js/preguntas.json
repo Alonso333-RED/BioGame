@@ -1,252 +1,252 @@
 [
   {
-    "pregunta": "¿Qué alimento mejora la digestión, controla el peso y protege el corazón?",
+    "pregunta": "¿Qué alimento ayuda a la digestión, controla el peso y protege el corazón gracias a su fibra y antioxidantes?",
     "respuesta": "P001",
     "opciones": ["P001", "P002", "P037"],
-    "razon": "La manzana mejora la digestión, ayuda a controlar el peso y protege el corazón."
+    "razon": "La manzana contiene fibra soluble (pectina) y antioxidantes que mejoran la digestión, ayudan al control del peso y protegen la salud cardiovascular."
   },
   {
-    "pregunta": "¿Qué fruta ayuda a mantener la piel hidratada además de favorecer la digestión?",
+    "pregunta": "¿Qué fruta mejora la digestión, ayuda a la hidratación de la piel y contribuye al control del peso?",
     "respuesta": "P002",
-    "opciones": ["P001", "P002", "P016"],
-    "razon": "La pera favorece la digestión, protege el corazón y contribuye a mantener la piel hidratada."
+    "opciones": ["P002", "P016", "P001"],
+    "razon": "La pera aporta fibra, agua y antioxidantes que favorecen la digestión, la hidratación y el control del peso."
   },
   {
-    "pregunta": "¿Qué fruta aporta energía rápida y favorece la digestión?",
+    "pregunta": "¿Qué fruta aporta energía rápida y favorece la digestión gracias a sus carbohidratos naturales?",
     "respuesta": "P003",
-    "opciones": ["P003", "P017", "P020"],
-    "razon": "La banana aporta energía rápida y favorece la digestión."
+    "opciones": ["P020", "P003", "P017"],
+    "razon": "La banana contiene carbohidratos de rápida absorción y fibra que ayudan a la digestión y aportan energía inmediata."
   },
   {
-    "pregunta": "¿Qué alimento favorece el crecimiento muscular y aporta energía?",
+    "pregunta": "¿Qué alimento favorece el crecimiento muscular y el rendimiento físico por su alto contenido proteico?",
     "respuesta": "P004",
     "opciones": ["P004", "P021", "P023"],
-    "razon": "La carne favorece el crecimiento muscular y aporta energía."
+    "razon": "La carne es rica en proteínas de alto valor biológico esenciales para el desarrollo muscular y la energía."
   },
   {
-    "pregunta": "¿Qué alimento aporta energía rápida gracias a sus carbohidratos?",
+    "pregunta": "¿Qué alimento entrega energía rápida principalmente por su contenido de carbohidratos?",
     "respuesta": "P005",
-    "opciones": ["P005", "P024", "P037"],
-    "razon": "El arroz es una importante fuente de carbohidratos de fácil digestión."
+    "opciones": ["P024", "P037", "P005"],
+    "razon": "El arroz es una fuente de carbohidratos de fácil digestión que aporta energía rápida al organismo."
   },
   {
-    "pregunta": "¿Qué alimento es una proteína magra de alta calidad?",
+    "pregunta": "¿Qué alimento es una proteína magra que ayuda a mantener la masa muscular con bajo contenido graso?",
     "respuesta": "P006",
-    "opciones": ["P006", "P004", "P049"],
-    "razon": "El pollo aporta proteínas de alta calidad con poca grasa."
+    "opciones": ["P049", "P006", "P004"],
+    "razon": "El pollo es una proteína magra de alta calidad que aporta nutrientes con poca grasa."
   },
   {
-    "pregunta": "¿Qué alimento es una gran fuente de omega-3?",
+    "pregunta": "¿Qué alimento es una gran fuente de omega-3 beneficioso para el cerebro y el corazón?",
     "respuesta": "P007",
     "opciones": ["P007", "P008", "P029"],
-    "razon": "El pescado contiene omega-3 beneficioso para el cerebro y el corazón."
+    "razon": "El pescado contiene omega-3 y proteínas que favorecen la salud cardiovascular y el desarrollo cerebral."
   },
   {
-    "pregunta": "¿Cuál es una fuente económica de proteína de alta calidad?",
+    "pregunta": "¿Qué alimento es una fuente económica de proteína completa de alta calidad?",
     "respuesta": "P008",
-    "opciones": ["P008", "P004", "P023"],
-    "razon": "El huevo aporta proteínas completas a bajo costo."
+    "opciones": ["P004", "P023", "P008"],
+    "razon": "El huevo aporta proteínas completas, vitaminas y minerales a bajo costo."
   },
   {
-    "pregunta": "¿Qué verdura es rica en fibra, vitamina C y antioxidantes?",
+    "pregunta": "¿Qué verdura es rica en fibra, vitamina C y antioxidantes que protegen el organismo?",
     "respuesta": "P009",
-    "opciones": ["P009", "P010", "P014"],
-    "razon": "El brócoli contiene fibra, vitamina C y antioxidantes protectores."
+    "opciones": ["P014", "P009", "P010"],
+    "razon": "El brócoli contiene fibra, vitamina C y antioxidantes que ayudan a proteger las células del cuerpo."
   },
   {
-    "pregunta": "¿Qué verdura aporta hierro, calcio y vitaminas importantes?",
+    "pregunta": "¿Qué verdura aporta hierro, calcio y vitaminas esenciales para el organismo?",
     "respuesta": "P010",
     "opciones": ["P010", "P009", "P015"],
-    "razon": "La espinaca destaca por su contenido de hierro y calcio."
+    "razon": "La espinaca es rica en hierro, calcio y vitaminas importantes para la sangre y los huesos."
   },
   {
-    "pregunta": "¿Qué alimento favorece la salud visual gracias a la vitamina A?",
+    "pregunta": "¿Qué alimento es rico en vitamina A y favorece la salud visual y la piel?",
     "respuesta": "P011",
-    "opciones": ["P011", "P013", "P014"],
-    "razon": "La zanahoria es rica en vitamina A, importante para la visión."
+    "opciones": ["P013", "P014", "P011"],
+    "razon": "La zanahoria contiene betacarotenos que el cuerpo transforma en vitamina A, esencial para la visión."
   },
   {
-    "pregunta": "¿Qué vegetal fortalece las defensas por su contenido de vitamina C?",
+    "pregunta": "¿Qué alimento fortalece el sistema inmune por su alto contenido de vitamina C?",
     "respuesta": "P012",
-    "opciones": ["P012", "P013", "P016"],
-    "razon": "Los pimientos contienen vitamina C y antioxidantes."
+    "opciones": ["P016", "P012", "P013"],
+    "razon": "Los pimientos contienen vitamina C y antioxidantes que ayudan a fortalecer las defensas del cuerpo."
   },
   {
-    "pregunta": "¿Qué alimento aporta licopeno beneficioso para el sistema cardiovascular?",
+    "pregunta": "¿Qué alimento aporta licopeno, un antioxidante que protege la salud cardiovascular?",
     "respuesta": "P013",
     "opciones": ["P013", "P009", "P028"],
-    "razon": "El tomate contiene licopeno, un antioxidante protector."
+    "razon": "El tomate contiene licopeno, un antioxidante que ayuda a proteger el corazón."
   },
   {
-    "pregunta": "¿Qué alimento es hidratante y bajo en calorías?",
+    "pregunta": "¿Qué alimento es hidratante y bajo en calorías, ideal para dietas ligeras?",
     "respuesta": "P014",
-    "opciones": ["P014", "P015", "P019"],
-    "razon": "El pepino contiene gran cantidad de agua y pocas calorías."
+    "opciones": ["P015", "P019", "P014"],
+    "razon": "El pepino tiene alto contenido de agua y muy pocas calorías, ideal para hidratación."
   },
   {
-    "pregunta": "¿Qué vegetal contiene agua, fibra y vitaminas con bajo aporte calórico?",
+    "pregunta": "¿Qué alimento aporta agua, fibra y vitaminas con bajo contenido calórico?",
     "respuesta": "P015",
-    "opciones": ["P015", "P014", "P010"],
-    "razon": "El calabacín aporta agua, fibra y vitaminas."
+    "opciones": ["P010", "P015", "P014"],
+    "razon": "El calabacín es ligero, rico en agua y aporta fibra y vitaminas esenciales."
   },
   {
-    "pregunta": "¿Qué fruta es rica en vitamina C y ayuda al sistema inmune?",
+    "pregunta": "¿Qué fruta es rica en vitamina C y ayuda a fortalecer el sistema inmune?",
     "respuesta": "P016",
     "opciones": ["P016", "P017", "P018"],
-    "razon": "La naranja es una excelente fuente de vitamina C."
+    "razon": "La naranja es una de las principales fuentes de vitamina C que fortalece las defensas."
   },
   {
-    "pregunta": "¿Qué fruta aporta antioxidantes, vitamina C y fibra?",
+    "pregunta": "¿Qué fruta aporta antioxidantes, vitamina C y fibra beneficiosa para la salud?",
     "respuesta": "P017",
-    "opciones": ["P017", "P018", "P020"],
-    "razon": "Las fresas contienen vitamina C, fibra y antioxidantes."
+    "opciones": ["P018", "P020", "P017"],
+    "razon": "Las fresas contienen antioxidantes, vitamina C y fibra que ayudan a proteger el organismo."
   },
   {
-    "pregunta": "¿Qué fruta contiene antioxidantes asociados al cuidado cerebral?",
+    "pregunta": "¿Qué fruta es conocida por sus antioxidantes que ayudan a la salud cerebral?",
     "respuesta": "P018",
-    "opciones": ["P018", "P017", "P019"],
-    "razon": "Los arándanos son reconocidos por sus antioxidantes."
+    "opciones": ["P019", "P018", "P017"],
+    "razon": "Los arándanos contienen antioxidantes que favorecen la memoria y la función cerebral."
   },
   {
-    "pregunta": "¿Qué fruta favorece la digestión y aporta vitamina C?",
+    "pregunta": "¿Qué fruta favorece la digestión gracias a enzimas naturales y aporta vitamina C?",
     "respuesta": "P019",
     "opciones": ["P019", "P016", "P020"],
-    "razon": "La piña favorece la digestión y aporta vitamina C."
+    "razon": "La piña contiene bromelina, una enzima que ayuda a la digestión, además de vitamina C."
   },
   {
-    "pregunta": "¿Qué fruta es rica en vitamina A y antioxidantes?",
+    "pregunta": "¿Qué fruta es rica en vitamina A y antioxidantes beneficiosos para la salud?",
     "respuesta": "P020",
-    "opciones": ["P020", "P017", "P003"],
-    "razon": "El mango aporta vitamina A y antioxidantes."
+    "opciones": ["P017", "P020", "P003"],
+    "razon": "El mango aporta vitamina A y antioxidantes que favorecen la piel, la visión y el sistema inmune."
   },
   {
     "pregunta": "¿Qué legumbre aporta proteínas vegetales, hierro y fibra?",
     "respuesta": "P021",
-    "opciones": ["P021", "P022", "P023"],
-    "razon": "Las lentejas son una excelente fuente de hierro y proteína vegetal."
+    "opciones": ["P023", "P021", "P022"],
+    "razon": "Las lentejas son una excelente fuente de proteína vegetal, hierro y fibra."
   },
   {
     "pregunta": "¿Qué alimento aporta proteínas vegetales, minerales y fibra?",
     "respuesta": "P022",
     "opciones": ["P022", "P021", "P024"],
-    "razon": "Los garbanzos aportan proteínas vegetales y fibra."
+    "razon": "Los garbanzos contienen proteínas vegetales, minerales y fibra que favorecen la digestión."
   },
   {
     "pregunta": "¿Qué alimento aporta proteína vegetal y calcio?",
     "respuesta": "P023",
     "opciones": ["P023", "P022", "P036"],
-    "razon": "El tofu es una fuente vegetal de proteínas y calcio."
+    "razon": "El tofu es una fuente vegetal de proteínas y calcio importante para huesos y músculos."
   },
   {
-    "pregunta": "¿Qué alimento ayuda al control del colesterol gracias a su fibra?",
+    "pregunta": "¿Qué alimento ayuda a controlar el colesterol gracias a su alto contenido de fibra?",
     "respuesta": "P024",
-    "opciones": ["P024", "P025", "P027"],
-    "razon": "La avena contiene fibra beneficiosa para el colesterol."
+    "opciones": ["P027", "P024", "P025"],
+    "razon": "La avena contiene fibra soluble que ayuda a reducir el colesterol."
   },
   {
-    "pregunta": "¿Qué tipo de pan contiene más fibra y nutrientes que el refinado?",
+    "pregunta": "¿Qué tipo de pan contiene más fibra y nutrientes que el pan refinado?",
     "respuesta": "P025",
     "opciones": ["P025", "P027", "P005"],
-    "razon": "El pan integral conserva más fibra y nutrientes."
+    "razon": "El pan integral conserva fibra y nutrientes que ayudan a la digestión."
   },
   {
     "pregunta": "¿Qué alimento aporta proteínas, fibra y minerales importantes?",
     "respuesta": "P026",
-    "opciones": ["P026", "P027", "P021"],
-    "razon": "La quinoa aporta proteínas, fibra y minerales esenciales para el organismo."
+    "opciones": ["P027", "P021", "P026"],
+    "razon": "La quinoa es un alimento completo con proteínas, fibra y minerales esenciales."
   },
   {
-    "pregunta": "¿Qué tipo de pasta entrega energía y un mayor contenido de fibra?",
+    "pregunta": "¿Qué tipo de pasta aporta energía y mayor contenido de fibra?",
     "respuesta": "P027",
-    "opciones": ["P027", "P005", "P025"],
-    "razon": "La pasta integral contiene más fibra que la pasta refinada y aporta energía."
+    "opciones": ["P005", "P027", "P025"],
+    "razon": "La pasta integral contiene más fibra que la pasta refinada y aporta energía sostenida."
   },
   {
     "pregunta": "¿Qué alimento es rico en grasas saludables beneficiosas para el corazón?",
     "respuesta": "P028",
     "opciones": ["P028", "P029", "P032"],
-    "razon": "La palta contiene grasas saludables que favorecen la salud cardiovascular."
+    "razon": "La palta contiene grasas saludables que ayudan a proteger el sistema cardiovascular."
   },
   {
-    "pregunta": "¿Qué fruto seco contiene grasas saludables, omega-3 y antioxidantes?",
+    "pregunta": "¿Qué fruto seco contiene omega-3, antioxidantes y grasas saludables?",
     "respuesta": "P029",
-    "opciones": ["P029", "P030", "P031"],
-    "razon": "Las nueces aportan omega-3, antioxidantes y grasas saludables."
+    "opciones": ["P030", "P031", "P029"],
+    "razon": "Las nueces aportan omega-3, antioxidantes y grasas saludables para el corazón."
   },
   {
     "pregunta": "¿Qué fruto seco aporta vitamina E, minerales y grasas saludables?",
     "respuesta": "P030",
-    "opciones": ["P030", "P029", "P028"],
-    "razon": "Las almendras son una excelente fuente de vitamina E y grasas saludables."
+    "opciones": ["P028", "P030", "P029"],
+    "razon": "Las almendras son ricas en vitamina E, minerales y grasas saludables."
   },
   {
-    "pregunta": "¿Qué alimento es rico en fibra y omega-3, ayudando a la digestión?",
+    "pregunta": "¿Qué alimento es rico en fibra y omega-3 que ayuda a la digestión?",
     "respuesta": "P031",
     "opciones": ["P031", "P029", "P024"],
-    "razon": "Las semillas de chía contienen fibra y omega-3 beneficiosos para la digestión."
+    "razon": "Las semillas de chía contienen fibra y omega-3 que favorecen la digestión."
   },
   {
-    "pregunta": "¿Qué aceite aporta grasas monoinsaturadas beneficiosas para el corazón?",
+    "pregunta": "¿Qué aceite es rico en grasas monoinsaturadas beneficiosas para el corazón?",
     "respuesta": "P032",
     "opciones": ["P032", "P028", "P030"],
-    "razon": "El aceite de oliva es una fuente importante de grasas monoinsaturadas."
+    "razon": "El aceite de oliva contiene grasas saludables que protegen el sistema cardiovascular."
   },
   {
     "pregunta": "¿Qué alimento aporta calcio, proteínas y probióticos?",
     "respuesta": "P033",
     "opciones": ["P033", "P034", "P036"],
-    "razon": "El yogurt natural contiene probióticos además de calcio y proteínas."
+    "razon": "El yogurt natural contiene calcio, proteínas y probióticos beneficiosos para la digestión."
   },
   {
     "pregunta": "¿Qué bebida láctea aporta calcio y proteínas con menor contenido graso?",
     "respuesta": "P034",
-    "opciones": ["P034", "P035", "P033"],
-    "razon": "La leche baja en grasa conserva nutrientes importantes con menos grasa."
+    "opciones": ["P009", "P014", "P034"],
+    "razon": "La leche baja en grasa aporta calcio y proteínas con menos grasa saturada."
   },
   {
     "pregunta": "¿Qué bebida vegetal aporta vitaminas y minerales?",
     "respuesta": "P035",
-    "opciones": ["P035", "P034", "P033"],
-    "razon": "La leche de almendras es una alternativa vegetal rica en nutrientes."
+    "opciones": ["P023", "P035", "P006"],
+    "razon": "La leche de almendras es una alternativa vegetal con vitaminas y minerales."
   },
   {
     "pregunta": "¿Qué queso contiene proteínas y calcio con menos grasa que los quesos maduros?",
     "respuesta": "P036",
-    "opciones": ["P036", "P033", "P034"],
+    "opciones": ["P034", "P036", "P033"],
     "razon": "El queso fresco aporta proteínas y calcio con menor contenido graso."
   },
   {
-    "pregunta": "¿Qué producto es alto en azúcar y está asociado al aumento de peso?",
+    "pregunta": "¿Qué producto es alto en azúcar y asociado al aumento de peso?",
     "respuesta": "P037",
     "opciones": ["P037", "P016", "P019"],
-    "razon": "Las bebidas gaseosas contienen grandes cantidades de azúcar."
+    "razon": "Las bebidas gaseosas contienen altos niveles de azúcar que favorecen el aumento de peso."
   },
   {
-    "pregunta": "¿Qué alimento contiene muchas grasas y sodio, pudiendo afectar la salud cardiovascular?",
+    "pregunta": "¿Qué alimento es alto en grasas y sodio que puede afectar la salud cardiovascular?",
     "respuesta": "P038",
-    "opciones": ["P038", "P009", "P014"],
-    "razon": "Las papas fritas suelen ser altas en grasas y sodio."
+    "opciones": ["P009", "P014", "P038"],
+    "razon": "Las papas fritas contienen grasas y sodio que pueden afectar la salud del corazón."
   },
   {
     "pregunta": "¿Qué comida contiene exceso de calorías, grasas y sodio?",
     "respuesta": "P039",
     "opciones": ["P039", "P006", "P023"],
-    "razon": "La hamburguesa suele contener altos niveles de calorías, grasas y sodio."
+    "razon": "La hamburguesa tiene alto contenido de calorías, grasas y sodio."
   },
   {
     "pregunta": "¿Qué alimento es alto en sodio y grasas procesadas?",
     "respuesta": "P040",
-    "opciones": ["P040", "P005", "P025"],
-    "razon": "Los completos contienen ingredientes procesados ricos en sodio y grasas."
+    "opciones": ["P005", "P025", "P040"],
+    "razon": "Los completos contienen sodio y grasas procesadas en exceso."
   },
   {
-    "pregunta": "¿Qué producto contiene exceso de grasas saturadas y sodio?",
+    "pregunta": "¿Qué producto contiene grasas saturadas y sodio en exceso?",
     "respuesta": "P041",
-    "opciones": ["P041", "P027", "P026"],
-    "razon": "La pizza procesada suele contener altos niveles de sodio y grasas saturadas."
+    "opciones": ["P027", "P026", "P041"],
+    "razon": "La pizza procesada es alta en grasas saturadas y sodio."
   },
   {
-    "pregunta": "¿Qué alimento contiene elevadas cantidades de azúcar y grasas?",
+    "pregunta": "¿Qué alimento contiene altas cantidades de azúcar y grasas?",
     "respuesta": "P042",
     "opciones": ["P042", "P017", "P020"],
     "razon": "Las donas contienen altos niveles de azúcar y grasas."
@@ -255,48 +255,48 @@
     "pregunta": "¿Qué producto contiene azúcares y grasas en exceso?",
     "respuesta": "P043",
     "opciones": ["P043", "P024", "P025"],
-    "razon": "Las galletas rellenas son alimentos ultraprocesados ricos en azúcar y grasas."
+    "razon": "Las galletas rellenas contienen grandes cantidades de azúcar y grasas."
   },
   {
-    "pregunta": "¿Qué alimento favorece el consumo excesivo de calorías aunque entregue energía rápida?",
+    "pregunta": "¿Qué alimento aporta energía rápida pero favorece el consumo excesivo de calorías?",
     "respuesta": "P044",
     "opciones": ["P044", "P029", "P030"],
-    "razon": "El chocolate procesado suele contener grandes cantidades de azúcar."
+    "razon": "El chocolate procesado aporta energía rápida pero también muchas calorías y azúcar."
   },
   {
-    "pregunta": "¿Qué producto es alto en azúcar y grasas pero genera una sensación refrescante temporal?",
+    "pregunta": "¿Qué producto es alto en azúcar y grasas pero genera sensación refrescante temporal?",
     "respuesta": "P045",
-    "opciones": ["P045", "P017", "P033"],
-    "razon": "Los helados industriales contienen azúcar y grasas en cantidades elevadas."
+    "opciones": ["P033", "P045", "P017"],
+    "razon": "Los helados industriales contienen azúcar y grasas en exceso."
   },
   {
-    "pregunta": "¿Qué alimento genera picos de glucosa debido a su exceso de azúcar?",
+    "pregunta": "¿Qué alimento genera picos de glucosa por su alto contenido de azúcar?",
     "respuesta": "P046",
     "opciones": ["P046", "P024", "P025"],
-    "razon": "Los cereales azucarados contienen grandes cantidades de azúcares añadidos."
+    "razon": "Los cereales azucarados contienen grandes cantidades de azúcar que elevan la glucosa."
   },
   {
-    "pregunta": "¿Qué producto contiene mucho sodio y grasas, satisfaciendo antojos temporalmente?",
+    "pregunta": "¿Qué producto contiene mucho sodio y grasas, satisfaciendo antojos?",
     "respuesta": "P047",
-    "opciones": ["P047", "P031", "P030"],
-    "razon": "Los snacks procesados suelen contener grasas y sodio en exceso."
+    "opciones": ["P031", "P030", "P047"],
+    "razon": "Los snacks procesados contienen sodio y grasas en exceso."
   },
   {
-    "pregunta": "¿Qué alimento ultraprocesado aporta proteínas pero también mucho sodio?",
+    "pregunta": "¿Qué alimento ultraprocesado aporta proteínas pero también alto sodio?",
     "respuesta": "P048",
-    "opciones": ["P048", "P006", "P008"],
-    "razon": "Los nuggets son productos ultraprocesados con alto contenido de sodio."
+    "opciones": ["P008", "P048", "P006"],
+    "razon": "Los nuggets son ultraprocesados con alto contenido de sodio."
   },
   {
-    "pregunta": "¿Qué producto puede afectar la salud si se consume frecuentemente, aunque aporte proteínas?",
+    "pregunta": "¿Qué producto puede afectar la salud si se consume frecuentemente aunque aporte proteínas?",
     "respuesta": "P049",
     "opciones": ["P049", "P007", "P021"],
-    "razon": "Las salchichas son carnes procesadas con un consumo recomendado moderado."
+    "razon": "Las salchichas son carnes procesadas que deben consumirse con moderación."
   },
   {
-    "pregunta": "¿Qué alimento es muy alto en sodio y bajo en nutrientes, aunque sea fácil de preparar?",
+    "pregunta": "¿Qué alimento es muy alto en sodio y bajo en nutrientes aunque sea fácil de preparar?",
     "respuesta": "P050",
-    "opciones": ["P050", "P024", "P022"],
+    "opciones": ["P024", "P022", "P050"],
     "razon": "La sopa instantánea contiene mucho sodio y pocos nutrientes."
   }
 ]

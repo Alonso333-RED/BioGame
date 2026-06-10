@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+
+    background:
+        linear-gradient(rgba(255,255,255,0.7),
+        rgba(255,255,255,0.9)),
+        url("../img/views/FondoTrivia.png");
+
+    background-size: cover;
+    background-position: center;
+}
+
+/* HEADER */
+
+header {
+    text-align: center;
+    padding: 30px 20px;
+}
+
+header h1 {
+    color: #2e7d32;
+    font-size: 2.5rem;
+}
+
+/* NAV */
+
+nav {
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(135deg, #43a047, #66bb6a);
+    padding: 12px 25px;
+    border-radius: 50px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    transform: translateY(-3px);
+    background: linear-gradient(135deg, #2e7d32, #4caf50);
+}
+
+/* HERO */
+
+.hero {
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.hero h2 {
+    color: #2e7d32;
+    margin-bottom: 15px;
+    font-size: 2rem;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #444;
+    line-height: 1.6;
+}
+
+/* TARJETAS */
+
+.contenido {
+    max-width: 1100px;
+    margin: auto;
+    padding: 20px;
+
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: white;
+    width: 320px;
+    padding: 25px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card h3 {
+    color: #2e7d32;
+    margin-bottom: 15px;
+}
+
+.card p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* FOOTER */
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+
+    background: rgba(46, 125, 50, 0.9);
+    color: white;
+}
+
+/* RESPONSIVE */
+
+@media (max-width: 768px) {
+
+    .hero h2 {
+        font-size: 1.6rem;
+    }
+
+    .card {
+        width: 90%;
+    }
+}
+
+/* EQUIPO */
+
+.equipo {
+    max-width: 1200px;
+    margin: 60px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.equipo h2 {
+    color: #2e7d32;
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
+.miembros {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.miembro {
+    background: white;
+    width: 250px;
+    padding: 20px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+
+    transition: all 0.3s ease;
+}
+
+.miembro:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.miembro img {
+    width: 140px;
+    height: 140px;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+    border: 4px solid #4caf50;
+
+    margin-bottom: 15px;
+}
+
+.miembro h3 {
+    color: #2e7d32;
+    margin-bottom: 8px;
+}
+
+.miembro p {
+    color: #666;
+    font-size: 14px;
+}
