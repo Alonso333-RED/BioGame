@@ -1,4 +1,4 @@
-const url = '/QuizAlimentacionSaludable/public/js/items.json'
+const url = './public/js/items.json'
 
 
 const obtenerItems = async()=>{
