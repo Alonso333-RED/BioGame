@@ -79,7 +79,7 @@ const player = {
 const messages = [
     "El alcohol puede afectar la memoria y la coordinación.",
     "Las drogas pueden provocar dependencia y problemas de salud.",
-    "Las adicciones afectan la salud física and mental.",
+    "Las adicciones afectan la salud física y mental.",
     "Tomar decisiones saludables protege tu futuro.",
     "La prevención ayuda a evitar consecuencias graves."
 ];

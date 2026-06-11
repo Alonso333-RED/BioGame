@@ -17,7 +17,6 @@ body{
     background-position:center;
 }
 
-/* HEADER */
 
 header{
     text-align:center;
@@ -35,7 +34,6 @@ header p{
     font-size:18px;
 }
 
-/* BOTÓN VOLVER */
 
 .volver{
     display:block;
@@ -62,8 +60,6 @@ header p{
     transform:translateY(-3px);
 }
 
-/* GALERÍA */
-
 .galeria{
     max-width:1200px;
     margin:auto;
@@ -74,7 +70,6 @@ header p{
     gap:25px;
 }
 
-/* TARJETAS */
 
 .item{
     background:white;
@@ -112,7 +107,6 @@ header p{
     line-height:1.5;
 }
 
-/* CÓDIGO O CATEGORÍA */
 
 .codigo{
     display:inline-block;
@@ -128,7 +122,6 @@ header p{
     font-weight:bold;
 }
 
-/* RESPONSIVE */
 
 @media(max-width:768px){
 

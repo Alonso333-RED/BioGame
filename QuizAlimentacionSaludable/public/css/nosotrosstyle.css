@@ -29,7 +29,7 @@ header h1 {
     font-size: 2.5rem;
 }
 
-/* NAV */
+
 
 nav {
     width: 90%;
@@ -61,7 +61,7 @@ nav ul li a:hover {
     background: linear-gradient(135deg, #2e7d32, #4caf50);
 }
 
-/* HERO */
+
 
 .hero {
     max-width: 900px;
@@ -82,7 +82,7 @@ nav ul li a:hover {
     line-height: 1.6;
 }
 
-/* TARJETAS */
+
 
 .contenido {
     max-width: 1100px;
@@ -121,7 +121,7 @@ nav ul li a:hover {
     line-height: 1.6;
 }
 
-/* FOOTER */
+
 
 footer {
     margin-top: 50px;
@@ -132,7 +132,7 @@ footer {
     color: white;
 }
 
-/* RESPONSIVE */
+
 
 @media (max-width: 768px) {
 
@@ -145,7 +145,6 @@ footer {
     }
 }
 
-/* EQUIPO */
 
 .equipo {
     max-width: 1200px;
